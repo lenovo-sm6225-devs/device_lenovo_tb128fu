@@ -11,7 +11,7 @@ $(call inherit-product, device/lenovo/sm6225-common/bengal.mk)
 $(call inherit-product, vendor/lenovo/tb128fu/tb128fu-vendor.mk)
 
 # API Level
-PRODUCT_SHIPPING_API_LEVEL := 30
+PRODUCT_SHIPPING_API_LEVEL := 31
 
 # Audio configs
 PRODUCT_COPY_FILES += \
